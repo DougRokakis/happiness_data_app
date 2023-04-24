@@ -1,0 +1,2 @@
+# What does this app do?
+This app analyzes the correlation between happiness, generosity and GDP in with the aid of pandas to load the dataframe, plotly.express to graph that data and streamlit to present the data in html form.
